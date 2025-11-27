@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+
+# Build directory
+build/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MacOS
+.DS_Store
+
+# Env
+.env
+
+# Other
+.vscode/
